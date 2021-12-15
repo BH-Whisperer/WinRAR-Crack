@@ -1,17 +1,16 @@
 @ECHO off
 color 02
 ECHO RAR registration data>rarreg.key
-ECHO BH-Whisperer>>rarreg.key
-ECHO github.com/BH-Whisperer>>rarreg.key
-ECHO UID=713a8b6c58cc9250750d>>rarreg.key
-ECHO 6412212250750da0e45a08245ddd7b763ee99859176f101c1ad7a8>>rarreg.key
-ECHO 4434fa23785c3dcebb94602e8821984a107b3ec9bc23018d45522a>>rarreg.key
-ECHO 614c9be80236d7c2e66478536e8a330c41e21bc3a974dc957eb059>>rarreg.key
-ECHO 3515cd70c3f2dc1f1696ef45d9283b76ff6034378d9298f486866a>>rarreg.key
-ECHO 2d4272a89cf8f1c604b521e21aecd99172f73cdd85330c41e21bc3>>rarreg.key
-ECHO a974dc94e9921d97c39d5383c9ba6f0e2131d4d503551457605df7>>rarreg.key
-ECHO b59ca836f9c08789452bfdabd61b8c1414eed1d2730b2212146747>>rarreg.key
-PAUSE
+ECHO h378>>rarreg.key
+ECHO github.com/h378>>rarreg.key
+ECHO UID=2510e92b1f5ceb89268f>>rarreg.key
+ECHO 6412212250268f6da8f73791c142b64409ea218fe57c9d18957844>>rarreg.key
+ECHO 30cb87ad2ca11c900b4c6033335fa53c9388e2ea1df1323f493f65>>rarreg.key
+ECHO df4d65e5e6bf2028f27fdee575c8b6d615574cebcf477c1280f194>>rarreg.key
+ECHO 14a339427d6447429f18de212bac872ac86037fa21af6c4078ce65>>rarreg.key
+ECHO b433364c12043c6830ab6f0b9c084d7f9e5c51b929b6d615574ceb>>rarreg.key
+ECHO cf477c12299d7730f8af5d5e4dc253f3d7a8d2087e1c239760b1d1>>rarreg.key
+ECHO 5904c3a78d11995d2acd0739fee0fbe4bdae44acd4972679315855>>rarreg.key
 CLS
 @ECHO OFF
 ECHO.
