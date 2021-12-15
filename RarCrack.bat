@@ -1,18 +1,17 @@
 @ECHO off
 color 02
-ECHO RAR registration data>asd.asd
-ECHO BH-Whisperer>>asd.asd
-ECHO github.com/BH-Whisperer>>asd.asd
-ECHO UID=713a8b6c58cc9250750d>>asd.asd
-ECHO 6412212250750da0e45a08245ddd7b763ee99859176f101c1ad7a8>>asd.asd
-ECHO 4434fa23785c3dcebb94602e8821984a107b3ec9bc23018d45522a>>asd.asd
-ECHO 614c9be80236d7c2e66478536e8a330c41e21bc3a974dc957eb059>>asd.asd
-ECHO 3515cd70c3f2dc1f1696ef45d9283b76ff6034378d9298f486866a>>asd.asd
-ECHO 2d4272a89cf8f1c604b521e21aecd99172f73cdd85330c41e21bc3>>asd.asd
-ECHO a974dc94e9921d97c39d5383c9ba6f0e2131d4d503551457605df7>>asd.asd
-ECHO b59ca836f9c08789452bfdabd61b8c1414eed1d2730b2212146747>>asd.asd
+ECHO RAR registration data>rarreg.key
+ECHO BH-Whisperer>>rarreg.key
+ECHO github.com/BH-Whisperer>>rarreg.key
+ECHO UID=713a8b6c58cc9250750d>>rarreg.key
+ECHO 6412212250750da0e45a08245ddd7b763ee99859176f101c1ad7a8>>rarreg.key
+ECHO 4434fa23785c3dcebb94602e8821984a107b3ec9bc23018d45522a>>rarreg.key
+ECHO 614c9be80236d7c2e66478536e8a330c41e21bc3a974dc957eb059>>rarreg.key
+ECHO 3515cd70c3f2dc1f1696ef45d9283b76ff6034378d9298f486866a>>rarreg.key
+ECHO 2d4272a89cf8f1c604b521e21aecd99172f73cdd85330c41e21bc3>>rarreg.key
+ECHO a974dc94e9921d97c39d5383c9ba6f0e2131d4d503551457605df7>>rarreg.key
+ECHO b59ca836f9c08789452bfdabd61b8c1414eed1d2730b2212146747>>rarreg.key
 PAUSE
-@MOVE asd.asd rarreg.key
 CLS
 @ECHO OFF
 ECHO.
